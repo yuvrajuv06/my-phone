@@ -31,6 +31,8 @@ System.out.println("Android version:"+version);
 		p.phone("16mp", "32mp");
 		p.phone(128,"6GB");
 		p.phone("android", 11);
+p.phone("price",111);
 		p.phone("price",111);
+
 	}
 }
